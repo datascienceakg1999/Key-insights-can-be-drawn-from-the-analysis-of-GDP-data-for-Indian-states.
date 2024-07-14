@@ -1,0 +1,8 @@
+GDP-Analysis-Indian-States/
+│
+├── data/
+│   └── gdp_data.csv
+├── analysis/
+│   └── gdp_analysis.ipynb
+├── README.md
+└── requirements.txt
